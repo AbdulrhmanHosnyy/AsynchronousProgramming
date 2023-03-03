@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\bin\Debug\net6.0\CAMultithreading.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\bin\Debug\net6.0\CAMultithreading.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\bin\Debug\net6.0\CAMultithreading.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\bin\Debug\net6.0\CAMultithreading.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\bin\Debug\net6.0\CAMultithreading.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\refint\CAMultithreading.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\CAMultithreading.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAMultithreading\obj\Debug\net6.0\ref\CAMultithreading.dll

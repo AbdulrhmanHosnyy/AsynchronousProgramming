@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\bin\Debug\net6.0\CASequential.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\bin\Debug\net6.0\CASequential.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\bin\Debug\net6.0\CASequential.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\bin\Debug\net6.0\CASequential.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\bin\Debug\net6.0\CASequential.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\refint\CASequential.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\CASequential.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CASequential\obj\Debug\net6.0\ref\CASequential.dll

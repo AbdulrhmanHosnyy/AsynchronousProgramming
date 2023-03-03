@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\bin\Debug\net6.0\CADeadLock.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\bin\Debug\net6.0\CADeadLock.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\bin\Debug\net6.0\CADeadLock.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\bin\Debug\net6.0\CADeadLock.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\bin\Debug\net6.0\CADeadLock.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\refint\CADeadLock.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\CADeadLock.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CADeadLock\obj\Debug\net6.0\ref\CADeadLock.dll

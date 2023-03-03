@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\bin\Debug\net6.0\CARaceCondition.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\bin\Debug\net6.0\CARaceCondition.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\bin\Debug\net6.0\CARaceCondition.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\bin\Debug\net6.0\CARaceCondition.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\bin\Debug\net6.0\CARaceCondition.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\refint\CARaceCondition.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\CARaceCondition.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CARaceCondition\obj\Debug\net6.0\ref\CARaceCondition.dll

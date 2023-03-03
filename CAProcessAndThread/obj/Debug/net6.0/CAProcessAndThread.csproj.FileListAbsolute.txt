@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net6.0\CAProcessAndThread.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net6.0\CAProcessAndThread.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net6.0\CAProcessAndThread.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net6.0\CAProcessAndThread.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net6.0\CAProcessAndThread.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\refint\CAProcessAndThread.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\CAProcessAndThread.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net6.0\ref\CAProcessAndThread.dll

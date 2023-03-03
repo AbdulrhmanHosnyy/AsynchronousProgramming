@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\bin\Debug\net6.0\CAThreadPool.exe
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\bin\Debug\net6.0\CAThreadPool.deps.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\bin\Debug\net6.0\CAThreadPool.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\bin\Debug\net6.0\CAThreadPool.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\bin\Debug\net6.0\CAThreadPool.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\refint\CAThreadPool.dll
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.pdb
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\CAThreadPool.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsynchronousProgramming\CAThreadPool\obj\Debug\net6.0\ref\CAThreadPool.dll
